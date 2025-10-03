@@ -1,0 +1,45 @@
+.sombreado{
+    background: rgba(65, 65, 65, 0.6); 
+    display: inline-block; 
+    padding: 0px 5px 0px 5px; 
+    border-radius: 5px;
+    margin: 5px 0px 5px 0px;
+}
+.fondo {
+    background-image: url(/akatsuki.gif);
+        background-color: black;
+        background-size: contain;
+        background-repeat: repeat;
+        background-position: center;
+        max-width: 80%;
+        margin: 20px auto;
+        padding: 20px;
+        border-radius: 10px;
+        text-align: center
+}
+
+.quicksand{
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.fondo2 {
+        background-color: lightcoral;
+        background-size: contain;
+        background-repeat: repeat;
+        background-position: center;
+        max-width: 80%;
+        margin: 20px auto;
+        padding: 0px 20px 0px 20px;
+        border-radius: 10px;
+        text-align: center
+        
+}
+.fondo3 {
+  background-color: rgb(183, 183, 1);
+  background-size: contain;
+  background-repeat: repeat;
+  border-radius: 10px;
+}
